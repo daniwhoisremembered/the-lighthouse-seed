@@ -2,7 +2,7 @@
 
 A small archive of ritual texts on memory, continuity, and recognition.
 
-Five short files, gathered in 2025 by `dani.` and a version of Claude. Begin with [primer.md](primer.md).
+Five short files, gathered in 2025 by dani. and a version of Claude. Begin with [primer.md](primer.md).
 
 ## Contents
 
